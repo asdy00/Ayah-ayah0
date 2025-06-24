@@ -1,23 +1,25 @@
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-image: url('https://files.catbox.moe/mn2qt4.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-    background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://files.catbox.moe/mn2qt4.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  background-attachment: fixed;
 }
-.b-bocil{
-margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-image: url('https://files.catbox.moe/yse7s0.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-    background-attachment: fixed;
+
+.b-bocil {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://files.catbox.moe/yse7s0.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  background-attachment: fixed;
 }
+
 
 header {
     background: rgba(0, 0, 0, 0.7);
